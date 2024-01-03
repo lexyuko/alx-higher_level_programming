@@ -1,6 +1,5 @@
-#!/usr/bin/bash
+#!/usr/bin/python3
 
 def raise_exception():
-    """This is a TypeError exception"""
-    raise TypeError
+    raise TypeError ("This is a TypeError exception")
 
